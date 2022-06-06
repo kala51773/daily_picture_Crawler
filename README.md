@@ -1,4 +1,4 @@
-# pixpv_picture_Crawler
+# pixiv_picture_Crawler
 用来自动保存涩图
 # 我该如何使用？
 1. 直接下载Releases中的可执行文件执行
