@@ -1,6 +1,8 @@
-# huashi6_picture_Crawler
+# pixpv_picture_Crawler
 用来自动保存涩图
 # 我该如何使用？
+1. 直接下载Releases中的可执行文件执行
+2. 运行python代码
 - 确保已经安装python3.7以上版本。   
 python官网下载链接  
 https://www.python.org/  
